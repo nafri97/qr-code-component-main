@@ -34,13 +34,14 @@ html, body{
     font-weight: 700;
     margin: 0 30px 15px;
     color: hsl(218, 44%, 22%);
+    font-size: 18px
 }
 
 .wrap p{
     font-family: 'Outfit', sans-serif;
     font-weight: 300;
     margin: 20px 30px 50px;
-    font-size: 11;
+    font-size: 11px;
     color: hsl(220, 15%, 55%);
 }
 
